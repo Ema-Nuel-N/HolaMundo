@@ -6,5 +6,6 @@ i love 🥧, 🍓 so much!!!
 
 i love 🎮,🖱️
 
-Primera Linea luego del commit agregada
-Añadi segunda linea agregada
+Primera Línea luego del commit agregada
+
+Segunda Línea agregada

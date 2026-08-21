@@ -3,3 +3,4 @@ Primera línea
 -Rendimiento mejorado
 -Gachas con pity
 -Movimiento fluido de los pj
+-Disparos Certeros
